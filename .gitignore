@@ -1,8 +1,9 @@
 .myenv
-chatbot_resumer_qa/.env
+chatbot_resume_qa/.env
 docs/chroma
 Loaders/docs
 
 qa/.env
+mini-project/.env
 vectorstores&embeddings/docs
 vectorstores&embeddings/.env
