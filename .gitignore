@@ -1,0 +1,8 @@
+.myenv
+chatbot_resumer_qa/.env
+docs/chroma
+Loaders/docs
+
+qa/.env
+vectorstores&embeddings/docs
+vectorstores&embeddings/.env
